@@ -114,9 +114,3 @@ brisc2025_<split>_<index>_<tumor>_<view>_<sequence>.jpg
 ```
 
 Example: `brisc2025_train_00001_gl_ax_t1.jpg`
-
-## Course Information
-
-**Project for**: Digital Signal and Image Processing  
-**University**: Università degli Studi di Milano-Bicocca  
-**Academic Year**: 2024-2025
