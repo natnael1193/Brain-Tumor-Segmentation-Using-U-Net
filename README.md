@@ -115,19 +115,6 @@ brisc2025_<split>_<index>_<tumor>_<view>_<sequence>.jpg
 
 Example: `brisc2025_train_00001_gl_ax_t1.jpg`
 
-## Citation
-
-If you use this project or the BRISC dataset, please cite:
-
-```bibtex
-@article{fateh2025brisc,
-  title={Brisc: Annotated dataset for brain tumor segmentation and classification with swin-hafnet},
-  author={Fateh, Amirreza and Rezvani, Yasin and Moayedi, Sara and Rezvani, Sadjad and Fateh, Fatemeh and Fateh, Mansoor and Abolghasemi, Vahid},
-  journal={arXiv preprint arXiv:2506.14318},
-  year={2025}
-}
-```
-
 ## Course Information
 
 **Project for**: Digital Signal and Image Processing  
